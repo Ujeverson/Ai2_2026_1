@@ -4,7 +4,15 @@
 ![BI](https://img.shields.io/badge/Business%20Intelligence-0078D4?style=for-the-badge&logo=powerbi&logoColor=white) 
 ![IA](https://img.shields.io/badge/Inteligência%20Artificial-FF6F00?style=for-the-badge&logo=openai&logoColor=white) 
 ![SENAI Fatesg](https://img.shields.io/badge/Faculdade_SENAI_Fatesg-00519E?style=for-the-badge&logoColor=white)
+<<<<<<< Updated upstream
 ![IA](https://img.shields.io/badge/Contato-FF6F00?style=for-the-badge&logo=openai&logoColor=white) 
+=======
+<<<<<<< HEAD
+[![Contato](https://img.shields.io/badge/Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://bit.ly/ujeverson)
+=======
+![IA](https://img.shields.io/badge/Contato-FF6F00?style=for-the-badge&logo=openai&logoColor=white) 
+>>>>>>> 21df7bc528a2d544f119d8a1e3a17d3ab071b71f
+>>>>>>> Stashed changes
 
 Bem-vindo ao repositório de atividades e exercícios da disciplina de **Business Intelligence (BI)** da **Faculdade SENAI Fatesg**. 
 Este repositório armazena os códigos e scripts desenvolvidos durante as aulas (`Período: 2026/1`).
