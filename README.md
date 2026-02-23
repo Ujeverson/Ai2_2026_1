@@ -4,7 +4,7 @@
 ![BI](https://img.shields.io/badge/Business%20Intelligence-0078D4?style=for-the-badge&logo=powerbi&logoColor=white) 
 ![IA](https://img.shields.io/badge/Inteligência%20Artificial-FF6F00?style=for-the-badge&logo=openai&logoColor=white) 
 ![SENAI Fatesg](https://img.shields.io/badge/Faculdade_SENAI_Fatesg-00519E?style=for-the-badge&logoColor=white)
-
+![IA](https://img.shields.io/badge/Contato-FF6F00?style=for-the-badge&logo=openai&logoColor=white) 
 Bem-vindo ao repositório de atividades e exercícios da disciplina de **Business Intelligence (BI)** da **Faculdade SENAI Fatesg**. 
 Este repositório armazena os códigos e scripts desenvolvidos durante as aulas (`Período: 2026/1`).
 
