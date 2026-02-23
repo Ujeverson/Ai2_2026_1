@@ -1,4 +1,9 @@
-# 📊 Atividades de Business Intelligence - SENAI Fatesg
+# 📊 Atividades de Business Intelligence
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![BI](https://img.shields.io/badge/Business%20Intelligence-0078D4?style=for-the-badge&logo=powerbi&logoColor=white) 
+![IA](https://img.shields.io/badge/Inteligência%20Artificial-FF6F00?style=for-the-badge&logo=openai&logoColor=white) 
+![SENAI Fatesg](https://img.shields.io/badge/Faculdade_SENAI_Fatesg-00519E?style=for-the-badge&logoColor=white)
 
 Bem-vindo ao repositório de atividades e exercícios da disciplina de **Business Intelligence (BI)** da **Faculdade SENAI Fatesg**. 
 Este repositório armazena os códigos e scripts desenvolvidos durante as aulas (`Período: 2026/1`).
@@ -7,16 +12,16 @@ Este repositório armazena os códigos e scripts desenvolvidos durante as aulas 
 
 Este repositório tem como objetivo documentar e organizar todas as atividades práticas propostas, incluindo:
 
-- Exercícios de manipulação e análise de dados (ex: utilizando **NumPy**).
-- Funções e scripts utilitários desenvolvidos em aula (como o arquivo `funcoes.py`).
-- Projetos e laboratórios da disciplina.
+- Exercícios de manipulação e análise de dados focados em Inteligência Artificial e BI.
+- Funções e scripts utilitários desenvolvidos em aula com Python e bibliotecas como `NumPy` e `Pandas`.
+- Projetos, laboratórios e modelagem de dados da disciplina.
 
 ## 🚀 Tecnologias e Bibliotecas
 
 As principais tecnologias abordadas neste repositório incluem:
 
-- **Linguagem:** Python
-- **Bibliotecas:** NumPy (e outras bibliotecas típicas de BI/Ciência de Dados como Pandas, Matplotlib, etc., conforme o andamento das aulas).
+- **Linguagens e Ferramentas:** Python
+- **Eixos Temáticos:** Inteligência Artificial (IA) e Business Intelligence (BI)
 
 ## 📌 Como utilizar
 
@@ -38,5 +43,5 @@ Você pode clonar este repositório para testar e revisar os exercícios na sua 
 ## 🏫 Instituição
 
 - **Instituição:** Faculdade SENAI Fatesg
-- **Disciplina:** Business Intelligence (BI)
+- **Disciplina:** Business Intelligence (BI) / Inteligência Artificial (IA)
 - **Período:** 2026/1
