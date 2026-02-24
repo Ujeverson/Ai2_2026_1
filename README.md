@@ -1,16 +1,15 @@
 # 📊 Atividades de Business Intelligence
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![BI](https://img.shields.io/badge/Business%20Intelligence-0078D4?style=for-the-badge&logo=powerbi&logoColor=white) 
-![IA](https://img.shields.io/badge/Inteligência%20Artificial-FF6F00?style=for-the-badge&logo=openai&logoColor=white) 
-![SENAI Fatesg](https://img.shields.io/badge/Faculdade_SENAI_Fatesg-00519E?style=for-the-badge&logoColor=white)
-<<<<<<< Updated upstream
-![IA](https://img.shields.io/badge/Contato-FF6F00?style=for-the-badge&logo=openai&logoColor=white) 
-=======
-<<<<<<< HEAD
-[![Contato](https://img.shields.io/badge/Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://bit.ly/ujeverson)
-=======
-![IA](https://img.shields.io/badge/Contato-FF6F00?style=for-the-badge&logo=openai&logoColor=white) 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-0078D4?style=for-the-badge&logo=powerbi&logoColor=white" alt="BI" />
+  <img src="https://img.shields.io/badge/Inteligência%20Artificial-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="IA" />
+  <img src="https://img.shields.io/badge/Faculdade_SENAI_Fatesg-00519E?style=for-the-badge&logo=senai&logoColor=white" alt="SENAI Fatesg" />
+  <br><br>
+  <a href="https://bit.ly/ujeverson">
+    <img src="https://img.shields.io/badge/Contato_Prof._Ujeverson-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contato" />
+  </a>
+</div>
 
 
 Bem-vindo ao repositório de atividades e exercícios da disciplina de **Business Intelligence (BI)** da **Faculdade SENAI Fatesg**. 
